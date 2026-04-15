@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gowrisantoshi7
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning coding
+- 🌱 I’m Full Stack Web Developer 
 - 💞️ I’m looking to collaborate on any new projects
 - 📫 ping me to collaborate with me
 - 😄 Pronouns: ...
